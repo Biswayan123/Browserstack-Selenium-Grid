@@ -1,0 +1,4 @@
+com\amazon\qa\scenario\HomePage.class
+com\amazon\qa\scenario\ResultsPage.class
+com\amazon\qa\util\Util.class
+com\amazon\qa\base\Base.class
